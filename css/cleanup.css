@@ -1,1 +1,21 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+#wall .tag-2 {
+    width: 600px;
+}
+.parent #tag-4{
+    width: 600px;
+    height: 500px;
+    margin-left: 10px;
+}
+.parent #tag-7 {
+    top: 10px;
+    left: 10px;
+}
+.parent .slick {
+    padding: 10px;
+    width: 800px;
+    height: 560px;
+}
